@@ -1,0 +1,16 @@
+{
+  "name": "mstb",
+  "version": "1.0.0",
+  "description": "test bed for nodejs server possible socket leak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "apps/bff",
+    "apps/svc",
+    "apps/cli"
+  ]
+}

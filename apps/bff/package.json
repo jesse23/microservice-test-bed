@@ -1,0 +1,15 @@
+{
+  "name": "@mstb/bff",
+  "version": "1.0.0",
+  "description": "backend for frontend server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "express": "^4.19.2",
+    "http-proxy-middleware": "^3.0.0"
+  },
+  "author": "jesse23",
+  "license": "ISC"
+}

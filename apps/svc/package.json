@@ -1,0 +1,15 @@
+{
+  "name": "@mstb/svc",
+  "version": "1.0.0",
+  "description": "nodejs server for returning data",
+  "main": "index.js",
+  "devDependencies": {
+    "express": "^4.19.2",
+    "http-proxy-middleware": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jesse23",
+  "license": "ISC"
+}
