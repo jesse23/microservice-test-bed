@@ -4,8 +4,8 @@
   "description": "nodejs server for returning data",
   "main": "index.js",
   "devDependencies": {
-    "express": "^4.19.2",
-    "http-proxy-middleware": "^3.0.0"
+    "http-proxy-middleware": "2.0.6",
+    "express": "4.19.2"
   },
   "scripts": {
     "start": "node index.js"
